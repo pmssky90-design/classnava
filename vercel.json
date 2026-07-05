@@ -3,5 +3,18 @@
   "cleanUrls": true,
   "trailingSlash": true,
   "buildCommand": "python generator.py",
-  "outputDirectory": "output"
+  "outputDirectory": "output",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.classnova.co.kr"
+        }
+      ],
+      "destination": "https://classnova.co.kr/$1",
+      "permanent": true
+    }
+  ]
 }

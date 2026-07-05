@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://classnova.co.kr/sitemap.xml

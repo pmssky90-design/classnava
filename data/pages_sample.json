@@ -1,0 +1,126 @@
+[
+  {
+    "title": "인천과외 | CLASSNOVA",
+    "slug": "incheon-tutor",
+    "parent": "",
+    "description": "인천 지역 과외 정보를 정리하기 위한 CLASSNOVA 샘플 페이지입니다.",
+    "h1": "인천과외",
+    "summary": "인천광역시 주요 지역의 과외 정보를 추후 엑셀 데이터와 연결해 확장할 예정입니다.",
+    "breadcrumb": [
+      {"title": "인천과외", "url": "/incheon-tutor/"}
+    ],
+    "links": {
+      "children": [],
+      "related": [
+        {"title": "인천수학과외", "url": "/incheon-math-tutor/"},
+        {"title": "인천영어과외", "url": "/incheon-english-tutor/"}
+      ]
+    }
+  },
+  {
+    "title": "강원과외 | CLASSNOVA",
+    "slug": "gangwon-tutor",
+    "parent": "",
+    "description": "강원 지역 과외 정보를 정리하기 위한 CLASSNOVA 샘플 페이지입니다.",
+    "h1": "강원과외",
+    "summary": "강원특별자치도 시군별 과외 페이지 생성을 준비하는 샘플 페이지입니다.",
+    "breadcrumb": [
+      {"title": "강원과외", "url": "/gangwon-tutor/"}
+    ],
+    "links": {
+      "children": [],
+      "related": [
+        {"title": "강원수학과외", "url": "/gangwon-math-tutor/"}
+      ]
+    }
+  },
+  {
+    "title": "충청과외 | CLASSNOVA",
+    "slug": "chungcheong-tutor",
+    "parent": "",
+    "description": "충청 지역 과외 정보를 정리하기 위한 CLASSNOVA 샘플 페이지입니다.",
+    "h1": "충청과외",
+    "summary": "대전, 세종, 충북, 충남 권역의 과외 페이지 확장을 준비합니다.",
+    "breadcrumb": [
+      {"title": "충청과외", "url": "/chungcheong-tutor/"}
+    ],
+    "links": {
+      "children": [],
+      "related": [
+        {"title": "충청영어과외", "url": "/chungcheong-english-tutor/"}
+      ]
+    }
+  },
+  {
+    "title": "인천수학과외 | CLASSNOVA",
+    "slug": "incheon-math-tutor",
+    "parent": "incheon-tutor",
+    "description": "인천 수학과외 정보를 정리하기 위한 CLASSNOVA 샘플 페이지입니다.",
+    "h1": "인천수학과외",
+    "summary": "인천 지역의 초등, 중등, 고등 수학과외 정보를 연결할 수 있는 샘플 페이지입니다.",
+    "breadcrumb": [
+      {"title": "인천과외", "url": "/incheon-tutor/"},
+      {"title": "인천수학과외", "url": "/incheon-math-tutor/"}
+    ],
+    "links": {
+      "children": [],
+      "related": [
+        {"title": "인천영어과외", "url": "/incheon-english-tutor/"}
+      ]
+    }
+  },
+  {
+    "title": "인천영어과외 | CLASSNOVA",
+    "slug": "incheon-english-tutor",
+    "parent": "incheon-tutor",
+    "description": "인천 영어과외 정보를 정리하기 위한 CLASSNOVA 샘플 페이지입니다.",
+    "h1": "인천영어과외",
+    "summary": "인천 지역의 영어 내신, 회화, 수능 대비 과외 정보를 연결할 수 있는 샘플 페이지입니다.",
+    "breadcrumb": [
+      {"title": "인천과외", "url": "/incheon-tutor/"},
+      {"title": "인천영어과외", "url": "/incheon-english-tutor/"}
+    ],
+    "links": {
+      "children": [],
+      "related": [
+        {"title": "인천수학과외", "url": "/incheon-math-tutor/"}
+      ]
+    }
+  },
+  {
+    "title": "강원수학과외 | CLASSNOVA",
+    "slug": "gangwon-math-tutor",
+    "parent": "gangwon-tutor",
+    "description": "강원 수학과외 정보를 정리하기 위한 CLASSNOVA 샘플 페이지입니다.",
+    "h1": "강원수학과외",
+    "summary": "강원 지역 수학과외 데이터를 추후 엑셀에서 받아 생성할 수 있도록 준비합니다.",
+    "breadcrumb": [
+      {"title": "강원과외", "url": "/gangwon-tutor/"},
+      {"title": "강원수학과외", "url": "/gangwon-math-tutor/"}
+    ],
+    "links": {
+      "children": [],
+      "related": [
+        {"title": "강원과외", "url": "/gangwon-tutor/"}
+      ]
+    }
+  },
+  {
+    "title": "충청영어과외 | CLASSNOVA",
+    "slug": "chungcheong-english-tutor",
+    "parent": "chungcheong-tutor",
+    "description": "충청 영어과외 정보를 정리하기 위한 CLASSNOVA 샘플 페이지입니다.",
+    "h1": "충청영어과외",
+    "summary": "충청권 영어과외 데이터를 지역과 과목 기준으로 확장하기 위한 샘플 페이지입니다.",
+    "breadcrumb": [
+      {"title": "충청과외", "url": "/chungcheong-tutor/"},
+      {"title": "충청영어과외", "url": "/chungcheong-english-tutor/"}
+    ],
+    "links": {
+      "children": [],
+      "related": [
+        {"title": "충청과외", "url": "/chungcheong-tutor/"}
+      ]
+    }
+  }
+]

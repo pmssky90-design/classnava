@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.log
+reports/
+temp/
+tmp/
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# Local QA screenshots, not deployment assets.
+/classnova-*.png
+/studyroute*.png

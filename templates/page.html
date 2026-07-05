@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$title</title>
+  <meta name="description" content="$description">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta name="theme-color" content="#0b1f3a">
+  <meta name="format-detection" content="telephone=no">
+  <meta property="og:title" content="$title">
+  <meta property="og:description" content="$description">
+  <meta property="og:url" content="$canonical">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="$thumbnail_url">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="$title">
+  <meta name="twitter:description" content="$description">
+  <meta name="twitter:image" content="$thumbnail_url">
+  <link rel="image_src" href="$thumbnail_url">
+  <link rel="canonical" href="$canonical">
+  <link rel="manifest" href="$manifest_href">
+  <link rel="icon" href="$favicon_href">
+  <link rel="icon" type="image/png" sizes="192x192" href="$icon_192_href">
+  <link rel="apple-touch-icon" href="$icon_192_href">
+  <link rel="stylesheet" href="$style_href">
+  <script type="application/ld+json">
+$json_ld
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="주요 메뉴">
+      <a class="brand" href="/">CLASSNOVA</a>
+      <div class="nav-links">
+        <a href="/강원도과외/">강원</a>
+        <a href="/인천과외/">인천</a>
+        <a href="/충청남도과외/">충남</a>
+        <a href="/충청북도과외/">충북</a>
+        <a href="/인천수학과외/">수학</a>
+        <a href="/인천영어과외/">영어</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <article class="page">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="현재 위치">
+          $breadcrumb
+        </nav>
+        <header class="page-header">
+          <p class="eyebrow">$site_name 지역 과외 정보</p>
+          <h1>$h1</h1>
+          <p class="hero-text">$summary</p>
+        </header>
+
+        <figure class="fixed-page-image">
+          <img src="$fixed_image_src" alt="$fixed_image_alt" width="800" height="8000" loading="lazy">
+        </figure>
+
+        <img
+          src="$thumbnail_src"
+          alt="$thumbnail_alt"
+          class="search-thumbnail"
+          width="1200"
+          height="630"
+          loading="eager"
+        >
+
+        <section class="page-content">
+$content
+        </section>
+
+$parent_section
+
+$child_section
+
+$sibling_section
+
+$related_section
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; $year CLASSNOVA. 지역별 과외 정보 사이트.</p>
+    </div>
+  </footer>
+
+  <script src="$script_src" defer></script>
+</body>
+</html>

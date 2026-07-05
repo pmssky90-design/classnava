@@ -12,3 +12,6 @@ Thumbs.db
 # Local QA screenshots, not deployment assets.
 /classnova-*.png
 /studyroute*.png
+
+.vercel
+.env*

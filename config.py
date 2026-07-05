@@ -3,7 +3,7 @@ from pathlib import Path
 
 SITE_NAME = "CLASSNOVA"
 SITE_DESCRIPTION = "인천, 충청, 강원 지역의 과외 정보를 지역, 과목, 학년 기준으로 정리한 CLASSNOVA 학습 정보 사이트입니다."
-SITE_URL = "https://classnova.co.kr"
+SITE_URL = "https://classnova.kr"
 LANGUAGE = "ko"
 
 ROOT_DIR = Path(__file__).resolve().parent

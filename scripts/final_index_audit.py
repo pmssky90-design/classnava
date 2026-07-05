@@ -16,7 +16,7 @@ OUTPUT_DIR = ROOT_DIR / "output"
 REPORTS_DIR = ROOT_DIR / "reports"
 TXT_REPORT = REPORTS_DIR / "final_index_audit.txt"
 CSV_REPORT = REPORTS_DIR / "final_index_audit.csv"
-SITE_URL = "https://classnova.co.kr"
+SITE_URL = "https://classnova.kr"
 SITE_HOST = urlparse(SITE_URL).netloc
 
 SEVERITIES = ("CRITICAL", "HIGH", "MEDIUM", "LOW")

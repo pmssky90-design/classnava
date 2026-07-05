@@ -11,7 +11,7 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT_DIR / "data" / "pages_generated.json"
 OUTPUT_DIR = ROOT_DIR / "output"
 REPORTS_DIR = ROOT_DIR / "reports"
-SITE_URL = "https://classnova.co.kr"
+SITE_URL = "https://classnova.kr"
 
 
 class LinkParser(HTMLParser):
@@ -43,9 +43,9 @@ def html_files() -> list[Path]:
 
 def href_to_output_path(href: str) -> Path | None:
     parsed = urlparse(href)
-    if parsed.scheme and parsed.netloc != "classnova.co.kr":
+    if parsed.scheme and parsed.netloc != "classnova.kr":
         return None
-    if parsed.scheme and parsed.netloc == "classnova.co.kr":
+    if parsed.scheme and parsed.netloc == "classnova.kr":
         href_path = parsed.path
     else:
         href_path = href.split("#", 1)[0].split("?", 1)[0]

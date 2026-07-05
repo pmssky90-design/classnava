@@ -10,10 +10,10 @@
       "has": [
         {
           "type": "host",
-          "value": "www.classnova.co.kr"
+          "value": "www.classnova.kr"
         }
       ],
-      "destination": "https://classnova.co.kr/$1",
+      "destination": "https://classnova.kr/$1",
       "permanent": true
     }
   ]

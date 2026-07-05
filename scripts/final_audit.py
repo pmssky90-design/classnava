@@ -15,7 +15,7 @@ OUTPUT_DIR = ROOT_DIR / "output"
 REPORTS_DIR = ROOT_DIR / "reports"
 REPORT_PATH = REPORTS_DIR / "final_audit_report.txt"
 SIMILARITY_REPORT_PATH = REPORTS_DIR / "content_similarity_report.txt"
-SITE_URL = "https://classnova.co.kr"
+SITE_URL = "https://classnova.kr"
 
 
 class AuditParser(HTMLParser):
@@ -99,7 +99,7 @@ def detail_path(slug: str) -> Path:
 
 def output_path_from_url(url: str) -> Path | None:
     parsed = urlparse(url)
-    if parsed.scheme and parsed.netloc and parsed.netloc != "classnova.co.kr":
+    if parsed.scheme and parsed.netloc and parsed.netloc != "classnova.kr":
         return None
     path = parsed.path if parsed.scheme else url
     path = path.split("#", 1)[0].split("?", 1)[0]

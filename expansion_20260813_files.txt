@@ -1,4 +1,5 @@
 output/sitemap-classnova-expansion-20260813.xml
+output/sitemap-expansion-20260813.xml
 output/가경동고1과외/index.html
 output/가경동고1수학과외/index.html
 output/가경동고1영어과외/index.html

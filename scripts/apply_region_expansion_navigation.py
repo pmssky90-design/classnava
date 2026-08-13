@@ -19,11 +19,13 @@ def parent_section(children: list[dict[str, str]]) -> str:
         for child in children
     )
     return (
+        '      <div class="container region-expansion-container">\n'
         f'        <section class="section page-section {MARKER}" data-navigation-version="20260813">\n'
         '          <h2>이 지역의 신규 학습 콘텐츠</h2>\n'
         '          <p class="section-note">이 지역에 실제 존재하는 학년·과목별 학습 콘텐츠를 확인할 수 있습니다.</p>\n'
         f'          <ul class="link-list">{links}</ul>\n'
-        '        </section>\n\n'
+        '        </section>\n'
+        '      </div>\n\n'
     )
 
 

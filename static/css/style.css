@@ -497,6 +497,23 @@ h3 {
   line-height: 1.4;
 }
 
+.region-expansion-navigation {
+  width: 100%;
+}
+
+.region-expansion-navigation .link-card,
+.region-expansion-navigation .text-link {
+  height: 100%;
+}
+
+.region-expansion-navigation .text-link {
+  box-sizing: border-box;
+}
+
+.region-expansion-navigation .text-link span {
+  overflow-wrap: anywhere;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

@@ -548,7 +548,7 @@ h3 {
 
 @media (max-width: 760px) {
   body {
-    padding-bottom: calc(58px + env(safe-area-inset-bottom));
+    padding-bottom: calc(64px + env(safe-area-inset-bottom));
   }
 
   .mobile-contact-cta {
@@ -559,29 +559,58 @@ h3 {
     left: 0;
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    min-height: calc(58px + env(safe-area-inset-bottom));
+    min-height: calc(64px + env(safe-area-inset-bottom));
     padding: 0 0 env(safe-area-inset-bottom);
-    border-top: 1px solid var(--line);
-    background: #ffffff;
-    box-shadow: 0 -4px 14px rgba(18, 38, 63, 0.08);
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+    background: var(--primary-dark);
+    box-shadow: 0 -4px 14px rgba(0, 0, 0, 0.14);
   }
 
   .mobile-contact-cta__link {
     display: flex;
     min-width: 0;
-    min-height: 58px;
+    min-height: 64px;
     align-items: center;
     justify-content: center;
-    color: var(--primary-dark);
+    gap: 8px;
+    color: #ffffff;
     font: inherit;
-    font-weight: 800;
+    font-size: 1.05rem;
+    font-weight: 700;
     line-height: 1.2;
     text-align: center;
     text-decoration: none;
   }
 
-  .mobile-contact-cta__link + .mobile-contact-cta__link {
-    border-left: 1px solid var(--line);
+  .mobile-contact-cta__link:first-child {
+    background: var(--primary-dark);
+  }
+
+  .mobile-contact-cta__link:last-child {
+    border-left: 1px solid rgba(255, 255, 255, 0.38);
+    background: var(--accent);
+  }
+
+  .mobile-contact-cta__link:first-child::before {
+    content: "☎";
+  }
+
+  .mobile-contact-cta__link:last-child::before {
+    content: "✉";
+  }
+
+  .mobile-contact-cta__link::before {
+    font-size: 1.08em;
+    line-height: 1;
+  }
+
+  .mobile-contact-cta__link:first-child:active {
+    background: #0a3f39;
+  }
+
+  .mobile-contact-cta__link:last-child:active {
+    background: #943824;
   }
 
   .mobile-contact-cta__link:focus-visible {

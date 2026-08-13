@@ -1,0 +1,851 @@
+[
+  {
+    "region_slug": "가경동과외",
+    "relative_path": "가경동과외/index.html",
+    "expected_generator_sha256": "27772e6871421be33d63391bb61ed8dd969d15fc40e2958f2b01fccd7189419f",
+    "patched_sha256": "7947969f019f9cf8b03ff00df48f479c32f40765f174e21888b860d2976eb41e",
+    "school_root_slugs": [
+      "서원고과외",
+      "충북공업고과외",
+      "충북대학교사범대학부설고과외"
+    ]
+  },
+  {
+    "region_slug": "간석동과외",
+    "relative_path": "간석동과외/index.html",
+    "expected_generator_sha256": "7de3a7d0d15a02054a06187eb179ce79f57ae0818ca98450d4a88c15dd0a3346",
+    "patched_sha256": "b3c8ffd7a264c04c68dc26628f455adbf118117fb058be4e4525955159a90549",
+    "school_root_slugs": [
+      "석정여고과외",
+      "신명여고과외",
+      "인제고과외",
+      "인천남고과외",
+      "인천예술고과외"
+    ]
+  },
+  {
+    "region_slug": "갈산동과외",
+    "relative_path": "갈산동과외/index.html",
+    "expected_generator_sha256": "6bafb3c7c7b3bb4bd60d3f6c63aa606c2f212dc5138712bf17723ddfcedd300d",
+    "patched_sha256": "4e7737f6336e6e0268f163e3500e3659336705ed4a744d69e4f61455eb32af2f",
+    "school_root_slugs": [
+      "부평공업고과외"
+    ]
+  },
+  {
+    "region_slug": "개운동과외",
+    "relative_path": "개운동과외/index.html",
+    "expected_generator_sha256": "b57b9a54b1d3012e873136ea5b5aeabbb0249ee76789b8d8ba121507b76b2412",
+    "patched_sha256": "398af0bcd48d7b25de5dbb288bdfefe37eeff7af6bf3bfaf687a6971929340a1",
+    "school_root_slugs": [
+      "상지여고과외",
+      "원주고과외"
+    ]
+  },
+  {
+    "region_slug": "계산동과외",
+    "relative_path": "계산동과외/index.html",
+    "expected_generator_sha256": "a0d4a9f6d2796b765ea7c4759a38c196a17ba3e29aa4f76b89ed36662637512c",
+    "patched_sha256": "f0cd962437ce913961ec1140d05fce2c19aee0d4ea0e3e3d4d3363727b361ecd",
+    "school_root_slugs": [
+      "계산고과외",
+      "계산공업고과외"
+    ]
+  },
+  {
+    "region_slug": "계양구과외",
+    "relative_path": "계양구과외/index.html",
+    "expected_generator_sha256": "0b8205219b794c840eeafec89434601146b5ced3936d1a1a3fcebfebf568976b",
+    "patched_sha256": "2afc9e0d6f2118bbe1a9af596e31dafad70a937b3835e742821aa42d2488ba99",
+    "school_root_slugs": [
+      "계산여고과외",
+      "계양고과외",
+      "서운고과외",
+      "인천예일고과외",
+      "인천효성고과외"
+    ]
+  },
+  {
+    "region_slug": "관교동과외",
+    "relative_path": "관교동과외/index.html",
+    "expected_generator_sha256": "b7461bb5412550bc5cf11b6ef8c6c9c2b2a57002a609cfaf27cae88f6a9bfb62",
+    "patched_sha256": "4fd1ca4956149a0d0d6ba537619ac1db75df96295f22b1782f18d3a798d30935",
+    "school_root_slugs": [
+      "인명여고과외"
+    ]
+  },
+  {
+    "region_slug": "권곡동과외",
+    "relative_path": "권곡동과외/index.html",
+    "expected_generator_sha256": "705cf874da6ad501f9ffc26f3d815d2f0d15939286c6a7e029053bdb9a3d1fd3",
+    "patched_sha256": "74a80c3ea58684982cda3f8dd80674847d487b9162462df690bf8de12391c081",
+    "school_root_slugs": [
+      "한올고과외"
+    ]
+  },
+  {
+    "region_slug": "금천동과외",
+    "relative_path": "금천동과외/index.html",
+    "expected_generator_sha256": "ef3c076caeadce237577a6792839cbdaeee837d37601252426b6c79fcf15875a",
+    "patched_sha256": "efc57875c81e96f50328b850adcc1adfa15bdb4c602b7a247ab6a8b0deb42a48",
+    "school_root_slugs": [
+      "금천고과외"
+    ]
+  },
+  {
+    "region_slug": "내덕동과외",
+    "relative_path": "내덕동과외/index.html",
+    "expected_generator_sha256": "6a3835079b617c2643474f48b72a4ebc30ba86482e05f3da67268cf3c9b7a81b",
+    "patched_sha256": "fb15d94a9345a98ca2d4d551cad86a55472d3e2889ad44ca67236e785d3ada83",
+    "school_root_slugs": [
+      "청주농업고과외",
+      "청주대성고과외"
+    ]
+  },
+  {
+    "region_slug": "단계동과외",
+    "relative_path": "단계동과외/index.html",
+    "expected_generator_sha256": "2db22316a2e2ebc501bcf8f52e9e58faf96162b477a6f16fbe48dc7a2277f49d",
+    "patched_sha256": "7080472db78aa46bcd51e7540f0f76d5b7bf34db5c9db1cf5de0a4d12a2ac200",
+    "school_root_slugs": [
+      "북원여고과외"
+    ]
+  },
+  {
+    "region_slug": "당하동과외",
+    "relative_path": "당하동과외/index.html",
+    "expected_generator_sha256": "e55db7c0c5a04f516430396e8117e77ea7a587278310d90bf4514e6679c65fda",
+    "patched_sha256": "dcd5574c20aafde642d0436d6fad332ce09a599413e93b8c744fd152acd51bb9",
+    "school_root_slugs": [
+      "문곡고과외",
+      "인천아라고과외"
+    ]
+  },
+  {
+    "region_slug": "도화동과외",
+    "relative_path": "도화동과외/index.html",
+    "expected_generator_sha256": "051b97fc99e31a949e5bd8745ef994740305b56ae02fa1e74c0efc23c1f3c9f5",
+    "patched_sha256": "354e7779cec94f0bb52c7f911e168b5ec4125eb56af29b162640a060c3fab42b",
+    "school_root_slugs": [
+      "선인고과외",
+      "인천대중예술고과외",
+      "인천비즈니스고과외",
+      "인천소방고과외",
+      "인천전자마이스터고과외",
+      "인화여고과외"
+    ]
+  },
+  {
+    "region_slug": "동면과외",
+    "relative_path": "동면과외/index.html",
+    "expected_generator_sha256": "81f8c01bfac6fe4472ff821a8ae39a79777da7d08bcdd1a6928c06d0dced94b0",
+    "patched_sha256": "4161c14a5051ea5083e6cc926aba7b5e29a99104ad4657debb7c7f70f14afb2d",
+    "school_root_slugs": [
+      "강원고과외",
+      "춘천여고과외",
+      "한마음고과외"
+    ]
+  },
+  {
+    "region_slug": "동춘동과외",
+    "relative_path": "동춘동과외/index.html",
+    "expected_generator_sha256": "8c31f19e399bb19e690c463a9b02413a8d67c2633e606a14894fd13c76fdfe62",
+    "patched_sha256": "a9c363321f8b78d299f71572a2930ba85c954265d13d24e94938f7e1af7bfd62",
+    "school_root_slugs": [
+      "연수여고과외",
+      "인천대건고과외",
+      "인천뷰티예술고과외"
+    ]
+  },
+  {
+    "region_slug": "두정동과외",
+    "relative_path": "두정동과외/index.html",
+    "expected_generator_sha256": "3501c2898bda38a7fe2ecc6d3f4451b14f2a2c0036fd548671f3a3300ec1fcf3",
+    "patched_sha256": "28a4bb85962027c5a6ed15efa9d4367e855a5dd1eb923140742134657c7730a3",
+    "school_root_slugs": [
+      "천안두정고과외"
+    ]
+  },
+  {
+    "region_slug": "마전동과외",
+    "relative_path": "마전동과외/index.html",
+    "expected_generator_sha256": "1831179bdff83804f4419059becf932db4612c9efcd06fbd1233c53a86028351",
+    "patched_sha256": "6a61b2333c184dc4145b19251f1d0d67b8011e44999626a517f4a6b4860c7e59",
+    "school_root_slugs": [
+      "검단고과외",
+      "인천마전고과외"
+    ]
+  },
+  {
+    "region_slug": "무실동과외",
+    "relative_path": "무실동과외/index.html",
+    "expected_generator_sha256": "d3ca1632059dcdb3719d4a4dedab209d489fe97b13022f53ff0b923b4ce8345a",
+    "patched_sha256": "e603d7db32595df88293356e5cd71e4c96ebe619641f8d212737e064ae97ff30",
+    "school_root_slugs": [
+      "대성고과외",
+      "원주삼육고과외"
+    ]
+  },
+  {
+    "region_slug": "문학동과외",
+    "relative_path": "문학동과외/index.html",
+    "expected_generator_sha256": "3b3cec79b309d9524f0dc50a6787aaea06cc1a5245d2ae7f309fb640713250f2",
+    "patched_sha256": "242cb1c6388b9e5d2922fe1e4aa00a6ca033ed8bdcacfe6335f33e5e2edf3811",
+    "school_root_slugs": [
+      "문학정보고과외"
+    ]
+  },
+  {
+    "region_slug": "반곡동과외",
+    "relative_path": "반곡동과외/index.html",
+    "expected_generator_sha256": "63c20e7294e5eed4df944f74f5e8351e3fdb715e0d5b1ae8be4a5ebdd699851c",
+    "patched_sha256": "d46110e2c47f17fdfecd814657f61d6ddd7422e842cacc74c82cb65b0a11d366",
+    "school_root_slugs": [
+      "영서고과외",
+      "원주여고과외"
+    ]
+  },
+  {
+    "region_slug": "배방읍과외",
+    "relative_path": "배방읍과외/index.html",
+    "expected_generator_sha256": "68edceda3f1d156ca697c76442b45b084259b8953b20a70cfc31580f8839c311",
+    "patched_sha256": "bf11f2efa137134a8552c736bb77a257c7ebb8da47def4d3296ca60cee0b32f0",
+    "school_root_slugs": [
+      "배방고과외",
+      "설화고과외",
+      "이순신고과외"
+    ]
+  },
+  {
+    "region_slug": "백석동과외",
+    "relative_path": "백석동과외/index.html",
+    "expected_generator_sha256": "fc77b6e9a8ab96b7ee8c98ba746abaff5780ec5d52e8330c83ac24be31e29170",
+    "patched_sha256": "73d5b1515af10ef9ea3a7bbe7f61dcd4ed2708cf903bc382cf8c5889cee9e6da",
+    "school_root_slugs": [
+      "백석고과외",
+      "한국주얼리고과외"
+    ]
+  },
+  {
+    "region_slug": "병방동과외",
+    "relative_path": "병방동과외/index.html",
+    "expected_generator_sha256": "99b073271f2cff41260b33ad0258f866dc9d4164243af0b08eb7dba04f648938",
+    "patched_sha256": "5a8405fc033ae8f13a342d79b29acecec3c2e471694566e079c17b1ccc6498dc",
+    "school_root_slugs": [
+      "인천세원고과외"
+    ]
+  },
+  {
+    "region_slug": "복대동과외",
+    "relative_path": "복대동과외/index.html",
+    "expected_generator_sha256": "c147a16ab4f849c39fd5fdbe4c897ea267b7aa1e63c8faaff864f1871dc222c2",
+    "patched_sha256": "bd3598c539752162d16a5a8bce40364223bc8c6db8e715d551032939935c8e3c",
+    "school_root_slugs": [
+      "청주고과외",
+      "청주외국어고과외",
+      "흥덕고과외"
+    ]
+  },
+  {
+    "region_slug": "부개동과외",
+    "relative_path": "부개동과외/index.html",
+    "expected_generator_sha256": "57bf98795b38a071c7cd8ce366954655625d58829b23a7e14171bb5b68e5fa8b",
+    "patched_sha256": "6cc19216710ae9152e53a1eeb68794cfbbe23e98a2860833c43fe70f913366b0",
+    "school_root_slugs": [
+      "부개고과외",
+      "부개여고과외",
+      "부광여고과외",
+      "인천미래생활고과외",
+      "인천부흥고과외"
+    ]
+  },
+  {
+    "region_slug": "부평구과외",
+    "relative_path": "부평구과외/index.html",
+    "expected_generator_sha256": "20d4a35cfdd93599f7aee3f3783e27e622bc21c3734fc836376f8a1bbab4e898",
+    "patched_sha256": "3d0bac553ddab16da42508303ff0ca2a11a9c6f361f4f8f058dbf2b2e784e2b2",
+    "school_root_slugs": [
+      "인천상정고과외",
+      "제일고과외"
+    ]
+  },
+  {
+    "region_slug": "부평동과외",
+    "relative_path": "부평동과외/index.html",
+    "expected_generator_sha256": "fc38128128aae518ccf8e35b2bc4321db80fba01d8616d9e69ae63f3fa183a4e",
+    "patched_sha256": "77482e302eebe47e7bd9f83a6be61ce7bb3e5312bad8b1e81a46f07c92de38fd",
+    "school_root_slugs": [
+      "부평고과외",
+      "부평여고과외"
+    ]
+  },
+  {
+    "region_slug": "분평동과외",
+    "relative_path": "분평동과외/index.html",
+    "expected_generator_sha256": "0cb2e1385bad3180ab58597edfe768fc9f242f1d9abce5d7817eb6ef763d609d",
+    "patched_sha256": "eeb0c7085a02d5c372f0e515ca5918f4f76e61ac5e819d6bf7d1061cdabff427",
+    "school_root_slugs": [
+      "청주하이텍고과외",
+      "충북고과외"
+    ]
+  },
+  {
+    "region_slug": "불당동과외",
+    "relative_path": "불당동과외/index.html",
+    "expected_generator_sha256": "239f1a016559f7d8a036080aeffbac88fb55af3ceb88db50272bc69b25382dfa",
+    "patched_sha256": "041bd0f8e920cac96f0150a85c9d3e5168d97857c8ded59611966d2f7f823353",
+    "school_root_slugs": [
+      "천안불당고과외",
+      "천안월봉고과외"
+    ]
+  },
+  {
+    "region_slug": "사창동과외",
+    "relative_path": "사창동과외/index.html",
+    "expected_generator_sha256": "7bad4b1d26b0dc96ebb5ccbdffaa7e75d8114c501fd2596e88d3c73bcb1cd26d",
+    "patched_sha256": "4b822fd551a7f4300f7fda82230bc9575843079f03db2eba7bdc1b0e53d59ea8",
+    "school_root_slugs": [
+      "청주중앙여고과외"
+    ]
+  },
+  {
+    "region_slug": "산곡동과외",
+    "relative_path": "산곡동과외/index.html",
+    "expected_generator_sha256": "521d44a9053356806d6bb2287f36fc826b332b8e2a335b5887d3c53bbbdfca68",
+    "patched_sha256": "5d0d9a9e3ca1064c86d2e1cf386e7688b2af3f9f58caf36c9507a2a5cab0650c",
+    "school_root_slugs": [
+      "명신여고과외",
+      "부광고과외",
+      "세일고과외",
+      "인천산곡고과외",
+      "인천외국어고과외",
+      "인평자동차고과외"
+    ]
+  },
+  {
+    "region_slug": "산남동과외",
+    "relative_path": "산남동과외/index.html",
+    "expected_generator_sha256": "a5f61d2e9696f5c4daf67bc51dfd2ff7ee9aa53d6cf970c518b06f19b33493c9",
+    "patched_sha256": "466f9320007795924dfacab707953b8892cbe5ff21c625a773d09a2fc9451585",
+    "school_root_slugs": [
+      "산남고과외"
+    ]
+  },
+  {
+    "region_slug": "삼산동과외",
+    "relative_path": "삼산동과외/index.html",
+    "expected_generator_sha256": "ba938817a6588c59e8c1d9a84865d076fca597323d82e618848da8fdc56d908d",
+    "patched_sha256": "6ada52e6f8bd321892cc34c7a89473fcbf4a570de2334b8ee6b37e9cccd5b2d5",
+    "school_root_slugs": [
+      "삼산고과외",
+      "인천영선고과외",
+      "인천진산과학고과외"
+    ]
+  },
+  {
+    "region_slug": "서창동과외",
+    "relative_path": "서창동과외/index.html",
+    "expected_generator_sha256": "bb1f94b32098f145204727600b7ceadf84efe33dddc8a50acac23e92a221f789",
+    "patched_sha256": "c4b523220b79699938cfd0cdbbe5897597f18860505953bacaf1b57972348950",
+    "school_root_slugs": [
+      "도림고과외"
+    ]
+  },
+  {
+    "region_slug": "석남동과외",
+    "relative_path": "석남동과외/index.html",
+    "expected_generator_sha256": "3779398d8516544fbb3961e7ae4d10c14e3e66d6fb692bdc78ef3a9e7f6ed658",
+    "patched_sha256": "e0406bcdc6c962c6a2bd0d1dc80fb09b14ee4eacaaf18fd47b5cd3daf6ad5d88",
+    "school_root_slugs": [
+      "가정고과외",
+      "인천보건고과외"
+    ]
+  },
+  {
+    "region_slug": "성성동과외",
+    "relative_path": "성성동과외/index.html",
+    "expected_generator_sha256": "9f83e0b44bfa35cc2bfd2a96a986a169e95747c88ba9b9122cd42005c31ff1f9",
+    "patched_sha256": "58387823790457259837b591cda3d62f50d8ebee42b1d7eb102d8e742633350f",
+    "school_root_slugs": [
+      "천안오성고과외"
+    ]
+  },
+  {
+    "region_slug": "송도동과외",
+    "relative_path": "송도동과외/index.html",
+    "expected_generator_sha256": "c0d09cf6c72580fe6f5a13c88fffe752aa8ee0a3e64f1010db351b17f98471ca",
+    "patched_sha256": "dc53089bcab5df36435d9efc0dbe0df2fa45ad1804cfb664090225e6420c918c",
+    "school_root_slugs": [
+      "박문여고과외",
+      "신송고과외",
+      "인천과학예술영재학교과외",
+      "인천연송고과외",
+      "인천포스코고과외",
+      "인천해송고과외"
+    ]
+  },
+  {
+    "region_slug": "신현동과외",
+    "relative_path": "신현동과외/index.html",
+    "expected_generator_sha256": "5df5faf2bb47f4251a8b19af88904e7029b5f6ea23937cb4f7129a20966fc926",
+    "patched_sha256": "f3ac2c78255b71f3977a5ba83d29478ee5dbdb95f1693ad46b22327a9dc8dc3a",
+    "school_root_slugs": [
+      "인천신현고과외"
+    ]
+  },
+  {
+    "region_slug": "쌍용동과외",
+    "relative_path": "쌍용동과외/index.html",
+    "expected_generator_sha256": "e51f76e0eb312a29d6c5fba900bbe0e6e5cb7fb45f2fc4406305c8304a68e01d",
+    "patched_sha256": "96264e93ed58ad20a928205387a5d5b53ffeb11e0826438c6313ae568e1acf8d",
+    "school_root_slugs": [
+      "천안쌍용고과외"
+    ]
+  },
+  {
+    "region_slug": "아산과외",
+    "relative_path": "아산과외/index.html",
+    "expected_generator_sha256": "942d9773efc545bd979e5cf3ae8d61d47a687dad71eec04d7125f9ac01f6ee1d",
+    "patched_sha256": "70ed4db2c3880ba3c2ab3cc0ea43ce77e95ded1e0c192e9172419b1e16804ca6",
+    "school_root_slugs": [
+      "아산스마트팩토리마이스터고과외",
+      "아산충무고과외",
+      "온양여고과외"
+    ]
+  },
+  {
+    "region_slug": "연수동과외",
+    "relative_path": "연수동과외/index.html",
+    "expected_generator_sha256": "05a1c404159ebf121fa620877c577db5a3bbc755bcc87e2df52a38338648229a",
+    "patched_sha256": "093a1a77c9d97aa09a5852e0cf890811c1360e760eaa0db220e29c713aa2d6cb",
+    "school_root_slugs": [
+      "연수고과외",
+      "인천생활과학고과외",
+      "인천여고과외"
+    ]
+  },
+  {
+    "region_slug": "옥련동과외",
+    "relative_path": "옥련동과외/index.html",
+    "expected_generator_sha256": "ca4fd2c207b16b581c7bacda9632b05ced7a9aa5d658bc17a1aac1e93a143183",
+    "patched_sha256": "66014c352b9c254ada446798472bff632d7cff9b828dfde5a02ba47d69ec1413",
+    "school_root_slugs": [
+      "송도고과외",
+      "옥련여고과외",
+      "인천해양과학고과외"
+    ]
+  },
+  {
+    "region_slug": "온천동과외",
+    "relative_path": "온천동과외/index.html",
+    "expected_generator_sha256": "5b4fa415b2e075e5e30feb85eb4f566db830d585c550aa118c7bcc180e5b046a",
+    "patched_sha256": "0e7ef0c0930849ee4e1ca06271ba7ba0517b648a25f576313e1d7c59740d3761",
+    "school_root_slugs": [
+      "아산고과외",
+      "온양고과외"
+    ]
+  },
+  {
+    "region_slug": "용담동과외",
+    "relative_path": "용담동과외/index.html",
+    "expected_generator_sha256": "7c857b152709739c7b4fc0e1465a722366cb001595679337a83bca8abaefe931",
+    "patched_sha256": "3086fbc33f771dd76525bf69127ec09781e116e7de354dd977f29a01a1e2e64b",
+    "school_root_slugs": [
+      "주성고과외"
+    ]
+  },
+  {
+    "region_slug": "용암동과외",
+    "relative_path": "용암동과외/index.html",
+    "expected_generator_sha256": "86a66bd09727e46486d9d4347cd7e02f2e7cee2cb86bccba0e00652cef002d97",
+    "patched_sha256": "3db98f78778f0cf76706e8a0632267368a8175fe4cdbb4704ace14cd565447a6",
+    "school_root_slugs": [
+      "상당고과외",
+      "청석고과외"
+    ]
+  },
+  {
+    "region_slug": "용현동과외",
+    "relative_path": "용현동과외/index.html",
+    "expected_generator_sha256": "b5259b2a0fff21336654d6e1e7311f16211e7c9d85666d53bd1bfa5caa04e9ce",
+    "patched_sha256": "af33a7078e0d825b71fa7a3e5c08b818f8521c835fb0e55a36bce1d55c52a91e",
+    "school_root_slugs": [
+      "인항고과외",
+      "정석항공과학고과외"
+    ]
+  },
+  {
+    "region_slug": "용화동과외",
+    "relative_path": "용화동과외/index.html",
+    "expected_generator_sha256": "90c918e7d955810b1de64b266ba06d7392df52c1eea323534e48d2b948d28a23",
+    "patched_sha256": "41b068c10fb1ba6afae7cadb81091926f548513a2a21378c562410f85afd13bb",
+    "school_root_slugs": [
+      "온양용화고과외"
+    ]
+  },
+  {
+    "region_slug": "우산동과외",
+    "relative_path": "우산동과외/index.html",
+    "expected_generator_sha256": "17d9ee4c18d44ccdaf625fc301faccc5886680d67a37f9c07aa91152686739f0",
+    "patched_sha256": "d8114e98ba04232c82a233df0f0b703943b3d577417f64d2c2fcc30a5403e2be",
+    "school_root_slugs": [
+      "진광고과외"
+    ]
+  },
+  {
+    "region_slug": "운남동과외",
+    "relative_path": "운남동과외/index.html",
+    "expected_generator_sha256": "95bf01769eea6f7403e88bf1337527f99399dc60eb66e4ad4b9aa12af9a8cd6f",
+    "patched_sha256": "a15af3684d0fb6719ca676f16914658e4df60619dc677f329a8a5bf657dd68f4",
+    "school_root_slugs": [
+      "영종국제물류고과외"
+    ]
+  },
+  {
+    "region_slug": "운서동과외",
+    "relative_path": "운서동과외/index.html",
+    "expected_generator_sha256": "498ea1c1a6059253e23bc4319ed6122e72b9bb7192665f26bc69e0061979464b",
+    "patched_sha256": "ddfc09b37860087a86697f72e136325de444fed94728ad31792f259701f274ed",
+    "school_root_slugs": [
+      "인천공항고과외",
+      "인천과학고과외",
+      "인천국제고과외",
+      "인천영종고과외",
+      "인천하늘고과외"
+    ]
+  },
+  {
+    "region_slug": "원당동과외",
+    "relative_path": "원당동과외/index.html",
+    "expected_generator_sha256": "79bf2148410d2b554cc1ac6aa6bcd001214fd26ced611989684aead7052b09f2",
+    "patched_sha256": "35b37f571abea9d4a2d1b440ac88f3a5f46f98117bca470d084d781e97ee4c08",
+    "school_root_slugs": [
+      "인천원당고과외",
+      "인천이음고과외"
+    ]
+  },
+  {
+    "region_slug": "원주과외",
+    "relative_path": "원주과외/index.html",
+    "expected_generator_sha256": "e9e7785d6a6c6661388cb84aae1e5185e09c54e9fd1329a58a4d33b7dabb7555",
+    "patched_sha256": "6cf16411ed6c11db11f69976ae48f77a25702494a2fdb76f31a98af6435b7d67",
+    "school_root_slugs": [
+      "강원과학고과외",
+      "문막고과외",
+      "섬강고과외",
+      "원주금융회계고과외",
+      "원주의료고과외",
+      "육민관고과외",
+      "치악고과외"
+    ]
+  },
+  {
+    "region_slug": "인천가좌동과외",
+    "relative_path": "인천가좌동과외/index.html",
+    "expected_generator_sha256": "054a190961747e54baa2d49075bcb9f22934fb28db71b089026b15a6ddd5dfcd",
+    "patched_sha256": "1faf5fe3f050364de5e6ba2f7e700e120a8ddb433eec8061b73f434357f868f1",
+    "school_root_slugs": [
+      "가림고과외",
+      "가좌고과외"
+    ]
+  },
+  {
+    "region_slug": "인천과외",
+    "relative_path": "인천과외/index.html",
+    "expected_generator_sha256": "c32cb970e4884ed16e6cee4f0154576ac3798939b156d634cf3caffe30c44f14",
+    "patched_sha256": "bfef935c88895b5025fe66e14b4433d7bc47e0c0d32e37af22fc879dafb29af9",
+    "school_root_slugs": [
+      "강남영상미디어고과외",
+      "강화고과외",
+      "강화여고과외",
+      "교동고과외",
+      "대청고과외",
+      "덕신고과외",
+      "덕적고과외",
+      "동산고과외",
+      "백령고과외",
+      "산마을고과외",
+      "서도고과외",
+      "연평고과외",
+      "영화국제관광고과외",
+      "인천영흥고과외",
+      "재능고과외",
+      "한국글로벌셰프고과외"
+    ]
+  },
+  {
+    "region_slug": "인천남동구과외",
+    "relative_path": "인천남동구과외/index.html",
+    "expected_generator_sha256": "4c58962e20918c7587cbe3529bed1b98e5a177e3c9471542c2bd46ac64880266",
+    "patched_sha256": "a7416f1171ea884bd1473c084221cd45003b1c8fbe559ce6d3992d8980dbb710",
+    "school_root_slugs": [
+      "동인천고과외",
+      "문일여고과외",
+      "숭덕여고과외",
+      "인천만수고과외"
+    ]
+  },
+  {
+    "region_slug": "인천논현동과외",
+    "relative_path": "인천논현동과외/index.html",
+    "expected_generator_sha256": "ee238dc171cab12835d4b276f8db48b7ff2086c899bf73692b7315106dfba2cb",
+    "patched_sha256": "415adc1d995fb09a6b7ba8d36e667e562e9b48550d7a021eeab343d305c2a95c",
+    "school_root_slugs": [
+      "미추홀외국어고과외",
+      "인천고잔고과외",
+      "인천금융고과외",
+      "인천남동고과외",
+      "인천논현고과외",
+      "인천송천고과외"
+    ]
+  },
+  {
+    "region_slug": "인천서구과외",
+    "relative_path": "인천서구과외/index.html",
+    "expected_generator_sha256": "7b4d7139c1647b7bf009c3537fa95be6270753f60ead7b49dda34b89fc2eeb3e",
+    "patched_sha256": "4d7d9f1e01bdb557b2832f94506ce13a5179161b092885b21320a74ced0f6adc",
+    "school_root_slugs": [
+      "대인고과외",
+      "서인천고과외",
+      "인천디자인고과외",
+      "인천청라고과외",
+      "인천초은고과외"
+    ]
+  },
+  {
+    "region_slug": "인천중구과외",
+    "relative_path": "인천중구과외/index.html",
+    "expected_generator_sha256": "58952f471a981fe66cbbdcb0572aecc2951712fabb0262226a0e042b73cde1a8",
+    "patched_sha256": "eabcaa9be9c9a6dd393ed371449dd41956b4d0f58ebb81f0d2af7d36f4238684",
+    "school_root_slugs": [
+      "광성고과외",
+      "인성여고과외",
+      "인일여고과외",
+      "인천반도체고과외",
+      "인천여자상업고과외",
+      "인천중앙여고과외",
+      "인천해사고과외",
+      "제물포고과외"
+    ]
+  },
+  {
+    "region_slug": "작전동과외",
+    "relative_path": "작전동과외/index.html",
+    "expected_generator_sha256": "a5e46ad1a7caa91ec853b13d411739c5eadce5374c26ad1f9fdae179f5af670b",
+    "patched_sha256": "943a0c84805fecdd6373137e155581db493b7db7a9e0ad9bd404a802c6986e4e",
+    "school_root_slugs": [
+      "안남고과외",
+      "작전고과외",
+      "작전여고과외"
+    ]
+  },
+  {
+    "region_slug": "주안동과외",
+    "relative_path": "주안동과외/index.html",
+    "expected_generator_sha256": "15bcc7966cfd6de2fbec4610fed8a193fe0908a303b0a292fa38f9dada093199",
+    "patched_sha256": "e43d81b97e17e54d7cb88ae40546d2e38d7237ef6c9b70ce688ca47480a0320e",
+    "school_root_slugs": [
+      "인천고과외",
+      "인천기계공업고과외"
+    ]
+  },
+  {
+    "region_slug": "중산동과외",
+    "relative_path": "중산동과외/index.html",
+    "expected_generator_sha256": "70d6a4847d36b621e0190f63057bdc149888a8bc376b676e85e1ba30b6da0a57",
+    "patched_sha256": "48bae0bac3a0882bc63b5c4f228130f74a91ce850936b5a9b33a9ade8d618a63",
+    "school_root_slugs": [
+      "인천중산고과외"
+    ]
+  },
+  {
+    "region_slug": "천안과외",
+    "relative_path": "천안과외/index.html",
+    "expected_generator_sha256": "8ecae71976fa607d57519548b6ff1ce4c4413b0d7177d46b040734ad84ea340a",
+    "patched_sha256": "4aca0afdedc39af92605424ce831febfa977b862316bb863ac5bb46873831ba2",
+    "school_root_slugs": [
+      "목천고과외",
+      "병천고과외",
+      "복자여고과외",
+      "북일고과외",
+      "북일여고과외",
+      "성환고과외",
+      "천안고과외",
+      "천안공업고과외",
+      "천안상업고과외",
+      "천안신당고과외",
+      "천안업성고과외",
+      "천안여고과외",
+      "천안제일고과외",
+      "천안중앙고과외",
+      "충남예술고과외"
+    ]
+  },
+  {
+    "region_slug": "청라동과외",
+    "relative_path": "청라동과외/index.html",
+    "expected_generator_sha256": "bea9d132f2b7a6872d6838f2fbd4219814d40257cd22845ec4c75ca0f33b3443",
+    "patched_sha256": "8f3e6712cd8135af3361b66862dffbef1c553e31bd2eac962328276ee685f75f",
+    "school_root_slugs": [
+      "인천체육고과외",
+      "인천해원고과외"
+    ]
+  },
+  {
+    "region_slug": "청수동과외",
+    "relative_path": "청수동과외/index.html",
+    "expected_generator_sha256": "9a8c850f68eb072fb36b1d9a2062150be302a98f74ba5c92c33c161591d1ac0b",
+    "patched_sha256": "d28083a88733140b3f97e40af117d76244920909d5eb921f4be4a7d9abd41d59",
+    "school_root_slugs": [
+      "천안청수고과외"
+    ]
+  },
+  {
+    "region_slug": "청주과외",
+    "relative_path": "청주과외/index.html",
+    "expected_generator_sha256": "97b62583af9f633705854b2a05fa2e17c7b98a3dc5939b89d3237a5a6bb1dec6",
+    "patched_sha256": "788b20455df9781f9c8f978c7b7053766c77bf9f1e8cd030b81029ff3cf6f1d9",
+    "school_root_slugs": [
+      "대성여자상업고과외",
+      "세광고과외",
+      "양업고과외",
+      "양청고과외",
+      "오송고과외",
+      "오창고과외",
+      "운호고과외",
+      "청원고과외",
+      "청주IT과학고과외",
+      "청주공업고과외",
+      "청주신흥고과외",
+      "청주여고과외",
+      "청주여자상업고과외",
+      "충북과학고과외",
+      "충북상업정보고과외",
+      "충북에너지고과외",
+      "충북여고과외",
+      "충북예술고과외",
+      "한국교원대학교부설고과외"
+    ]
+  },
+  {
+    "region_slug": "청주봉명동과외",
+    "relative_path": "청주봉명동과외/index.html",
+    "expected_generator_sha256": "304e121548c0a2036f09bd7b4aa7d4e3e69ba493751b1233d41ff365e5e2bc65",
+    "patched_sha256": "e5dc729197371f07c90ef9ffb96f84a3a81ba9a3ea748e10facc43068b7d6e67",
+    "school_root_slugs": [
+      "봉명고과외",
+      "천안여자상업고과외"
+    ]
+  },
+  {
+    "region_slug": "청학동과외",
+    "relative_path": "청학동과외/index.html",
+    "expected_generator_sha256": "e552f10f20065574e0d0868b2871c715d99544b8a7ca80411a095dffd9cb1a2f",
+    "patched_sha256": "8fc0bdb9a6f29c132f8c2dcbd64d1b06cb3bf70a86d636429536d5a6563061c5",
+    "school_root_slugs": [
+      "인천바이오과학고과외"
+    ]
+  },
+  {
+    "region_slug": "춘천과외",
+    "relative_path": "춘천과외/index.html",
+    "expected_generator_sha256": "49aaa5bae75b383dd71f05ab34f9d2de1ae831d8ed45eeaf1a93f9c0b5aee898",
+    "patched_sha256": "39dd45cd9c1ba3a9f572ba5e8760be85169dd9eb976e30a8382e847ec0ee8a4d",
+    "school_root_slugs": [
+      "강원생명과학고과외",
+      "강원애니고과외",
+      "강원체육고과외",
+      "성수고과외",
+      "성수여고과외",
+      "전인고과외",
+      "춘천고과외",
+      "춘천한샘고과외"
+    ]
+  },
+  {
+    "region_slug": "춘천교동과외",
+    "relative_path": "춘천교동과외/index.html",
+    "expected_generator_sha256": "f7854c15e54c0153201c7ce11639107116cd93dce48b2a77d5d291693dc83905",
+    "patched_sha256": "c80f14a21475eafee067ae553ec5c4322d9881d3afeb5ae3e1849b8f28367079",
+    "school_root_slugs": [
+      "유봉여고과외"
+    ]
+  },
+  {
+    "region_slug": "충주과외",
+    "relative_path": "충주과외/index.html",
+    "expected_generator_sha256": "8391074b6074acc7f774222e8f60718d987603239c780c38c52a21aa564a76de",
+    "patched_sha256": "e2657da5c9e863fa34e3b52e733c90de6966e3765ebb27da7ad4b61c3e0d9ba1",
+    "school_root_slugs": [
+      "국원고과외",
+      "중앙탑고과외",
+      "충원고과외",
+      "충주공업고과외",
+      "충주대원고과외",
+      "충주여고과외",
+      "한림디자인고과외"
+    ]
+  },
+  {
+    "region_slug": "탑동과외",
+    "relative_path": "탑동과외/index.html",
+    "expected_generator_sha256": "3d229b9c3e554b764dd42559786cc205a95762d3662319fc08e24180b67c1e21",
+    "patched_sha256": "66a988f59049c3aa5fafb2c4cb16b1081103e9535bb246fc75eaf26cb2e85d7f",
+    "school_root_slugs": [
+      "일신여고과외"
+    ]
+  },
+  {
+    "region_slug": "탕정면과외",
+    "relative_path": "탕정면과외/index.html",
+    "expected_generator_sha256": "1a3a87c0d2c9344a1e15d32d21eed3aa4aec1188557269a108ffbca0c2624e4f",
+    "patched_sha256": "317410f3be7619bf38bd860a98c625069e87fe2edfbf15038ebd0bdb713d9253",
+    "school_root_slugs": [
+      "충남삼성고과외",
+      "충남외국어고과외"
+    ]
+  },
+  {
+    "region_slug": "학익동과외",
+    "relative_path": "학익동과외/index.html",
+    "expected_generator_sha256": "9c523d0739d47c2916deb786ad8896013fa70ca8b3fa6d42789546532dda03a9",
+    "patched_sha256": "9dbea6489776c45ccfb82e66df71a1948ba11ba1b2197d953a6404ced1ed0d91",
+    "school_root_slugs": [
+      "인하대학교사범대학부속고과외",
+      "학익고과외",
+      "학익여고과외"
+    ]
+  },
+  {
+    "region_slug": "행구동과외",
+    "relative_path": "행구동과외/index.html",
+    "expected_generator_sha256": "4fbbb4203b8c0169bde0742f8e09ae24f8d08e5819354db7f1c39e5e8c496f96",
+    "patched_sha256": "421799bf6f6821dba64df2dc3dc343479e96200064e8b4b0102d82776fe7b27a",
+    "school_root_slugs": [
+      "미래고과외"
+    ]
+  },
+  {
+    "region_slug": "호암동과외",
+    "relative_path": "호암동과외/index.html",
+    "expected_generator_sha256": "59b9de25e9d82c0bab39d20bbd3b26cadab331047886cc74e98f468b8f9c6d33",
+    "patched_sha256": "c1ebad054be5be0be95cff70af8ac971aa6f44fad3e05caa8d2b37f670a942bf",
+    "school_root_slugs": [
+      "충주고과외",
+      "충주상업고과외",
+      "충주예성여고과외",
+      "충주중산고과외"
+    ]
+  },
+  {
+    "region_slug": "후평동과외",
+    "relative_path": "후평동과외/index.html",
+    "expected_generator_sha256": "0e1da7fa6fdb88505473fff8a0a420e9ca920376e44a2c30f94575e08b0d9ce7",
+    "patched_sha256": "7760b4e84945cfbca3cf789847cf71f135ecaae350db1b1c5772f436eb14684b",
+    "school_root_slugs": [
+      "강원대학교사범대학부설고과외",
+      "봉의고과외",
+      "춘천기계공업고과외"
+    ]
+  }
+]

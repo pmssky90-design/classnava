@@ -110,6 +110,9 @@ def main() -> None:
         try:
             restore(paths, backup, hashes)
             validate_final(paths, hashes)
+            patch_result = subprocess.run([sys.executable, str(ROOT / 'scripts' / 'apply_region_school_navigation.py')], cwd=ROOT, check=False)
+            if patch_result.returncode != 0:
+                raise RuntimeError(f'region navigation patch failed with exit code {patch_result.returncode}')
         except Exception as error:
             restore_error = error
         if generator_failed:

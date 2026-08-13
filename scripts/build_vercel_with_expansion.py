@@ -122,6 +122,13 @@ def main() -> None:
                 raise RuntimeError(
                     f"region expansion navigation patch failed with exit code {region_expansion_result.returncode}"
                 )
+            mobile_cta_result = subprocess.run(
+                [sys.executable, str(ROOT / "scripts" / "apply_mobile_contact_cta.py")],
+                cwd=ROOT,
+                check=False,
+            )
+            if mobile_cta_result.returncode != 0:
+                raise RuntimeError(f"mobile contact CTA patch failed with exit code {mobile_cta_result.returncode}")
         except Exception as error:
             restore_error = error
         if generator_failed:

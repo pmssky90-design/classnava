@@ -113,6 +113,15 @@ def main() -> None:
             patch_result = subprocess.run([sys.executable, str(ROOT / 'scripts' / 'apply_region_school_navigation.py')], cwd=ROOT, check=False)
             if patch_result.returncode != 0:
                 raise RuntimeError(f'region navigation patch failed with exit code {patch_result.returncode}')
+            region_expansion_result = subprocess.run(
+                [sys.executable, str(ROOT / "scripts" / "apply_region_expansion_navigation.py")],
+                cwd=ROOT,
+                check=False,
+            )
+            if region_expansion_result.returncode != 0:
+                raise RuntimeError(
+                    f"region expansion navigation patch failed with exit code {region_expansion_result.returncode}"
+                )
         except Exception as error:
             restore_error = error
         if generator_failed:

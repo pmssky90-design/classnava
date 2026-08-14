@@ -333,6 +333,85 @@ h3 {
   text-decoration: underline;
 }
 
+.school-finder-home-section {
+  background: var(--surface);
+}
+
+.school-finder-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.school-finder-card {
+  display: flex;
+  min-width: 0;
+  min-height: 330px;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 22px;
+  padding: 26px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 12px 28px rgba(18, 38, 63, 0.07);
+}
+
+.school-finder-card-title {
+  margin-bottom: 10px;
+  font-size: 1.34rem;
+  font-weight: 800;
+}
+
+.school-finder-card-description {
+  margin-bottom: 0;
+  color: var(--muted);
+  line-height: 1.72;
+  word-break: keep-all;
+}
+
+.school-finder-school-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.school-finder-school-link {
+  display: flex;
+  min-width: 0;
+  min-height: 40px;
+  align-items: center;
+  padding: 7px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--primary-dark);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+  text-decoration: none;
+}
+
+.school-finder-school-link:hover {
+  border-color: rgba(18, 107, 95, 0.42);
+  background: #ffffff;
+  text-decoration: none;
+}
+
+.school-finder-all-link {
+  color: var(--primary-dark);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.school-finder-all-link:hover {
+  text-decoration: underline;
+}
+
 .home-intro {
   padding-top: 44px;
 }
@@ -659,15 +738,21 @@ h3 {
   .grid.three,
   .link-list,
   .region-grid,
-  .category-grid {
+  .category-grid,
+  .school-finder-grid {
     grid-template-columns: 1fr;
     gap: 14px;
   }
 
   .region-card,
-  .category-card {
+  .category-card,
+  .school-finder-card {
     min-height: auto;
     padding: 22px;
+  }
+
+  .school-finder-school-list {
+    grid-template-columns: 1fr;
   }
 
   .popular-chips {

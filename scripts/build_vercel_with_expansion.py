@@ -110,6 +110,15 @@ def main() -> None:
         try:
             restore(paths, backup, hashes)
             validate_final(paths, hashes)
+            school_structure_result = subprocess.run(
+                [sys.executable, str(ROOT / "scripts" / "apply_school_structure_navigation.py")],
+                cwd=ROOT,
+                check=False,
+            )
+            if school_structure_result.returncode != 0:
+                raise RuntimeError(
+                    f"school structure navigation patch failed with exit code {school_structure_result.returncode}"
+                )
             patch_result = subprocess.run([sys.executable, str(ROOT / 'scripts' / 'apply_region_school_navigation.py')], cwd=ROOT, check=False)
             if patch_result.returncode != 0:
                 raise RuntimeError(f'region navigation patch failed with exit code {patch_result.returncode}')
